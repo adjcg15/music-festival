@@ -1,6 +1,6 @@
 ### Presentación de festival
 
-EN este proyecto se desarrolló un sitio web de una sola página donde se podía consultar toda la información de un cosierto. Puramente informativo, el sitio pretendía dar información general, costos y horarios, así como fotos del mismo evento en el pasado.
+En este proyecto se desarrolló una "landing page" para consultar toda la información de un concierto. Puramente informativo, el sitio pretende dar información general, costos y horarios, así como fotos del mismo evento en el pasado.
 En la carpeta _build_ se encuentran los archivos estáticos procesados listos para producción, mientras que en la carpeta _src_ se encuentra todo el código y archivos utilizados en el desarrollo.
 
 ##### El sitio
